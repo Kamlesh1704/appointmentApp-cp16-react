@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.titlestar {
+  display: flex;
+  justify-content: space-between;
+}
+.li {
+  height: 100px;
+  width: 520px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 2px solid grey;
+  border-radius: 9px;
+  margin: 10px;
+}
+button {
+  background: none;
+  border: none;
+}
+.datepara {
+  padding-bottom: 20px;
+}

@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.detailimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.appointmentsandstarred {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  margin: 20px;
+}
+.button {
+  height: 35px;
+  width: 70px;
+  color: white;
+  background-color: brown;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+ul {
+  display: flex;
+  padding-left: 50px;
+}
+.div {
+  height: 100vh;
+  width: 100vw;
+}
+.starredbutton{
+  border: 1px black solid;
+  border-radius: 5px;
+  height: 40px;
+  width: 100px;
+  text-align: center;
+}
